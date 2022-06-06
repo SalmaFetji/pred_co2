@@ -1,3 +1,3 @@
-import streamlit as st
+import pandas as pd
 
-st.write("Bonjour dans l'application")
+print("Bonjour dans l'application")
