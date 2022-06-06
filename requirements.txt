@@ -1,0 +1,12 @@
+matplotlib== 3.3.4
+numpy==1.21.4
+pandas==1.2.4
+streamlit==1.1.0
+gunicorn==20.1.0
+pandas==1.2.4
+plotly==5.3.1
+utils==1.0.1
+scikit-learn==1.0.1
+
+
+
